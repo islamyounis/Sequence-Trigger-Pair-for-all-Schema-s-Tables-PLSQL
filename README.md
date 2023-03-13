@@ -1,0 +1,1 @@
+# Sequence-Trigger-Pair-for-all-Schema-s-Tables-PLSQL
